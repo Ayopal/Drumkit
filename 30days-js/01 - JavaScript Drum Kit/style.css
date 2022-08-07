@@ -59,12 +59,8 @@ h3{
 
 
 
-@media only screen and (max-width: 780px) {
-  body {
-      /* height: 100vh; */
-  }
-
-  html {
+@media screen and (max-width: 480px) {
+   html {
   font-size: 10px;
   background: url('./background1.jpg') center center;
   background-size: cover;
